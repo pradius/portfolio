@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Initial Professional Portfolio to showcase projects",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradius/portfolio.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Jose R. Camilo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pradius/portfolio/issues"
+  },
+  "homepage": "https://github.com/pradius/portfolio#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
